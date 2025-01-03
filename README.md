@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HalHatesDave
-- 👀 I’m interested in DevOps and Fullstack Development
-- 🌱 I’m currently learning to apply C++ foundations into Unreal 5.5
-- 📫 How to reach me: DM me!
+- 👀 I’m interested in CI/CD, Culture Growth, and Ansible.
+- 🌱 Learning to work with Unreal 5.5
+- 📫 DM me.
 
