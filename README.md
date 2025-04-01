@@ -1,5 +1,5 @@
 <h1 align="left">Heyo! It's me, Hal</h1>
-<h3 align="left">A Neophyte SysAdmin</h3>
+<h3 align="left">   </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halhatesdave&label=Visitors&color=14daed&style=flat" alt="halhatesdave" /> </p>
 
