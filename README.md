@@ -4,13 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halhatesdave&label=Visitors&color=14daed&style=flat" alt="halhatesdave" /> </p>
 
 <p align="left">
-  ⚙️ Currently working on <strong>Azure Cloud Projects</strong><br>
-  🌱 Learning <strong>Effective use of AUR/GitHub/Bash</strong><br>
+  ⚙️ Currently working on <strong> Bash </strong><br>
   🕺 Looking to collaborate on <strong>Accessible Tools for Linux Gaming & Modding</strong><br>
-  🤝 Looking for help with <strong>Eloquent Bash Scripting</strong><br>
-  💬 Ask me about the <strong>Inevitability of the Borg</strong><br>
+  💬 Ask me about the <strong>Star Trek  & Star Gate!!</strong> (Sorry Star Wars)<br>
   📫 Reach me via <strong>DM</strong>!<br>
-  ⚡ Fun fact <strong>Pineapple Pizza is outlawed in Night City</strong>
 </p>
 
 <h3 align="left">Things I Use:</h3>
