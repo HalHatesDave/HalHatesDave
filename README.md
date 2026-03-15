@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halhatesdave&label=Visitors&color=14daed&style=flat" alt="halhatesdave" /> </p>
 
 <p align="left">
-  ⚙️ Systems & Governance
+  ⚙️ IT Lead | Infrastructure, Governance & Operations with a dash of Automation
 </p>
 
 <h3 align="left">Things I Use:</h3>
