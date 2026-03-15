@@ -4,10 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halhatesdave&label=Visitors&color=14daed&style=flat" alt="halhatesdave" /> </p>
 
 <p align="left">
-  ⚙️ Currently working on <strong> Bash </strong><br>
-  🕺 Looking to collaborate on <strong>Accessible Tools for Linux Gaming & Modding</strong><br>
-  💬 Ask me about the <strong>Star Trek  & Star Gate!!</strong> (Sorry Star Wars)<br>
-  📫 Reach me via <strong>DM</strong>!<br>
+  ⚙️ Systems & Governance
 </p>
 
 <h3 align="left">Things I Use:</h3>
